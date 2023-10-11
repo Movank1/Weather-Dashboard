@@ -14,5 +14,5 @@ Link : file:///C:/Users/movan/Desktop/2023-edx/Weather-Dashboard/assets/index.ht
 
      :  https://github.com/Movank1/Weather-Dashboard
 
-     ![Alt text](image.png)
+     ./assets/image.png
 
